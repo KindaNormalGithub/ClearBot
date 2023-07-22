@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-TOKEN = 'MTEzMDcxNTAyMDI4ODg2ODU1Mw.GSz8JK.q3Do1MEUo3thABQLv_mHMk-h5jcKLZ472rdSRM'
+TOKEN = 'YOUR_BOT_TOKEN'
 
 intents = discord.Intents.default()
 intents.messages = True  # Enable message-related events
